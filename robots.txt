@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://himdyaa.github.io/PrepUPSCNow/sitemap.xml
+
+Sitemap: https://himdyaa.github.io/prepupscnow/sitemap.xml
